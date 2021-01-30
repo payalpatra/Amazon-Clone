@@ -4,12 +4,6 @@
 
 # Amazon-Clone
 
-[![Coverage Status](https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg)](https://coveralls.io/github/ntkme/github-buttons)
-[![NPM](https://img.shields.io/npm/v/react-github-buttons.svg)](https://www.npmjs.com/package/react-github-buttons)
-[![Build Status](https://travis-ci.com/vaibhavhrt/react-github-buttons.svg?branch=master)](https://travis-ci.com/vaibhavhrt/react-github-buttons)
-
-# Amazon-Clone
-
 ## This is basically a clone of the well-known E-commerce website Amazon. It uses Firebase for User Authentication.
 ## What's Special about this Build ?
 ### Well, I used 3 different styling techniques to design its different Components.
