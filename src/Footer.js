@@ -173,7 +173,7 @@ function Footer() {
                 <SocialIconLink
                   href="https://www.instagram.com/amazondotin/"
                   target="_blank"
-                  aria-label="Instagra"
+                  aria-label="Instagram"
                 >
                   <FaInstagram />
                 </SocialIconLink>
