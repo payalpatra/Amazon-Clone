@@ -23,10 +23,11 @@
 }
 
 .product > img {
-  max-height: 200px;
+  max-height: 125px;
   width: 100%;
   object-fit: contain;
   margin-bottom: 15px;
+  /* z-index: -1; */
 }
 
 .product > button {

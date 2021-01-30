@@ -52,7 +52,7 @@ function Home() {
             title="HP 14 8th Gen Intel Core i5 Processor 14-inch Thin and Light Laptop , 14q cs0017TU"
             price={759.99}
             image="https://images-na.ssl-images-amazon.com/images/I/71Qz7rl%2B5RL._SL1500_.jpg"
-            rating={5}
+            rating={4}
           />
           <Product
             id="12321351"
@@ -75,7 +75,7 @@ function Home() {
             id="12321381"
             title="Casio Edifice Analog Blue Dial Men's Watch - EFR-552GL-2AVUDF (EX358)"
             price={40.0}
-            rating={5}
+            rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/71girhyQcJL._UL1100_.jpg"
           />
           <Product
@@ -83,7 +83,7 @@ function Home() {
             title="XBOOM Go PL5 Portable Bluetooth Speaker with Meridian Audio Technology"
             price={25.99}
             image="https://www.lg.com/us/images/home-audio/md07500093/gallery/desktop-01.jpg"
-            rating={4}
+            rating={5}
           />
           <Product
             id="12321391"
@@ -99,7 +99,7 @@ function Home() {
             id="12321441"
             title="Running Rider Fashionable Stylish Casual Shoes for Men Sneakers | Lace up Sneakers for Men Stylish"
             price={94.0}
-            rating={4}
+            rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/61Uh7P5bIUL._UL1100_.jpg"
           />
           <Product
@@ -113,7 +113,7 @@ function Home() {
             id="12321641"
             title="MAXPRO Folding Treadmill IM5001 (1.5HP) Electric Motorized Exercise Machine for Running & Walking"
             price={104.0}
-            rating={4}
+            rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/61eVQDxGpgL._SL1080_.jpg"
           />
         </div>
