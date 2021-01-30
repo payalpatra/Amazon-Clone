@@ -50,7 +50,7 @@
    ```
 ## Screnshots
 ### This is the Home Section
-![amazon](https://user-images.githubusercontent.com/67522406/106353330-ba86fc80-630f-11eb-93c5-f1a3a3b96601.png)
+![amazon](https://user-images.githubusercontent.com/67522406/106353456-b4dde680-6310-11eb-91d6-e28acf563857.png))
 ### This is the Checkout Section
 ![amazonCheck](https://user-images.githubusercontent.com/67522406/106353332-c1ae0a80-630f-11eb-8b0b-c1bd39758320.png)
 ### This is the User Authentication section
