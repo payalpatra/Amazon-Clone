@@ -8,9 +8,9 @@
 ## What's Special about this Build ?
 ### Well, I used 3 different styling techniques to design its different Components.
 
-### [Css for most of the components](https://nodejs.org/en/download/)
-### [react-styled-components for the footer](https://nodejs.org/en/download/) 
-### [react-bootstrap](https://nodejs.org/en/download/)
+### [Css for most of the components](https://devdocs.io/css/)
+### [react-styled-components for the footer](https://styled-components.com/) 
+### [react-bootstrap](https://react-bootstrap.github.io/)
 
 ## Installation Guidlines
 
@@ -25,7 +25,7 @@
    npm install
    ```
 ## STEP 3
- [Add a Project with Firebase](https://nodejs.org/en/download/)
+ [Add a Project with Firebase](https://console.firebase.google.com/u/0/)
  
 ## STEP 4
 ##### Go to the firebase.js file of the project file and add your firebase credentials (Note: This file already includes my firebase project credentials , So you just have to replace it with yours)
